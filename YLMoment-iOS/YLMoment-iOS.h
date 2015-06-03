@@ -15,5 +15,6 @@ FOUNDATION_EXPORT double YLMoment_iOSVersionNumber;
 FOUNDATION_EXPORT const unsigned char YLMoment_iOSVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <YLMoment_iOS/PublicHeader.h>
+#import <YLMoment_iOS/YLMoment.h>
 
 

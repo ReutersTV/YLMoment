@@ -10,7 +10,7 @@
 		C14FA9391B1CCBCE00143FC8 /* YLMoment-iOS.h in Headers */ = {isa = PBXBuildFile; fileRef = C14FA9381B1CCBCE00143FC8 /* YLMoment-iOS.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C14FA93F1B1CCBCE00143FC8 /* YLMoment.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C14FA9331B1CCBCE00143FC8 /* YLMoment.framework */; };
 		C14FA9461B1CCBCE00143FC8 /* YLMoment_iOSTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C14FA9451B1CCBCE00143FC8 /* YLMoment_iOSTests.m */; };
-		C14FA96C1B1CCC7B00143FC8 /* YLMoment.h in Headers */ = {isa = PBXBuildFile; fileRef = C14FA95F1B1CCC7B00143FC8 /* YLMoment.h */; };
+		C14FA96C1B1CCC7B00143FC8 /* YLMoment.h in Headers */ = {isa = PBXBuildFile; fileRef = C14FA95F1B1CCC7B00143FC8 /* YLMoment.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C14FA96D1B1CCC7B00143FC8 /* YLMomentRelativeTimeLocalizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = C14FA9611B1CCC7B00143FC8 /* YLMomentRelativeTimeLocalizable.strings */; };
 		C14FA96E1B1CCC7B00143FC8 /* YLMoment.m in Sources */ = {isa = PBXBuildFile; fileRef = C14FA96B1B1CCC7B00143FC8 /* YLMoment.m */; };
 /* End PBXBuildFile section */
