@@ -26,6 +26,14 @@
 
 #import <Foundation/Foundation.h>
 
+
+//! Project version number for YLMoment-iOS.
+FOUNDATION_EXPORT double YLMomentVersionNumber;
+
+//! Project version string for YLMoment-iOS.
+FOUNDATION_EXPORT const unsigned char YLMomentVersionString[];
+
+
 static NSString * const YLMomentIso8601Format = @"yyyy-MM-dd'T'HH:mm:ssZ";
 
 /**
